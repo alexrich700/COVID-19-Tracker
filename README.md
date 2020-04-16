@@ -1,4 +1,4 @@
-#COVID-19 Tracker
+# COVID-19 Tracker
 ***
 React, Charts.JS and Material UI
 
